@@ -1,0 +1,32 @@
+export const MINTINGS= [
+  {
+    "id":1,
+    "attributes":[{"trait_type":"element","value":"crystal"},{"trait_type":"color","value":"Red"}],
+    "description":"bracelet1",
+    "image":"https://ipfs.io/ipfs/bafkreidbyy677uew277b3jta6ixvg7vjq7kfujb5gw3s4jrwl4oqulxwh4"
+  },
+  {
+    "id":2,
+    "attributes":[{"trait_type":"element","value":"crystal"},{"trait_type":"color","value":"Red"}],
+    "description":"bracelet2",
+    "image":"https://ipfs.io/ipfs/bafkreiadc33jne56avbsfnlv4icorg6wvhcg5yrfro4mtjrmht6ydwhcnm"
+  },
+  {
+    "id":3,
+    "attributes":[{"trait_type":"element","value":"crystal"},{"trait_type":"color","value":"Red"}],
+    "description":"bracelet1",
+    "image":"https://ipfs.io/ipfs/bafkreibiuzjnhavholbmbvp2lp4d4fvl5qctuuvdeop35r32udpgz5zjb4"
+  },
+  {
+    "id":4,
+    "attributes":[{"trait_type":"element","value":"crystal"},{"trait_type":"color","value":"Red"}],
+    "description":"bracelet1",
+    "image":"https://ipfs.io/ipfs/bafkreicbqj5o4vehaba6ipnuit3qx44i5jl2ie2fzc5zbfzm57myw7apie"
+  },
+  {
+    "id":5,
+    "attributes":[{"trait_type":"element","value":"crystal"},{"trait_type":"color","value":"Red"}],
+    "description":"bracelet1",
+    "image":"https://ipfs.io/ipfs/bafkreibmbc27oxtcfqei5ffp3xcu4sy5myuajnienrw67cu5bujvqtmu7q"
+  },     
+]
